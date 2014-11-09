@@ -1,0 +1,6 @@
+C:\Users\gyaneshwar\documents\visual studio 2012\Projects\Examples\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+C:\Users\gyaneshwar\documents\visual studio 2012\Projects\Examples\Examples\bin\Debug\Examples.exe
+C:\Users\gyaneshwar\documents\visual studio 2012\Projects\Examples\Examples\bin\Debug\Examples.pdb
+C:\Users\gyaneshwar\documents\visual studio 2012\Projects\Examples\Examples\obj\Debug\Examples.exe
+C:\Users\gyaneshwar\documents\visual studio 2012\Projects\Examples\Examples\obj\Debug\Examples.pdb
+C:\Users\gyaneshwar\documents\visual studio 2012\Projects\Examples\Examples\bin\Debug\Examples.exe.config
